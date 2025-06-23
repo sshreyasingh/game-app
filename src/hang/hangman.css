@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #f0f0f0;
+  background-image:url('../assets/bg_avengers.jpg');
+  background-size: cover;
+}
+input {
+  padding: 10px;
+  margin: 10px;
+}
+button {
+  padding: 10px 15px;
+  margin: 10px;
+  border:5px solid white;
+  border-radius: 15px;
+}
+button:hover{
+    background-color: rgb(110, 34, 34);
+  border:5px solid white;
+}
+.hang-cont{
+    text-align: center;
+  padding: 2%;
+  /* margin-top: 50px; */
+  font-family: Arial, sans-serif;
+   background-color: rgb(0,0,0,0.5);
+    width: 600px;
+    height: 500px;
+    /* margin-top: 10px; */
+    text-align: center;
+    justify-content: center;
+    color: beige;
+}
+.heading_hang{
+    color: antiquewhite;
+    font-size: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.ma{
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.blank{
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 15px;
+    border: 5px solid maroon;
+    width: 10rem;
+}
+.wr{
+    font-size: 20px;
+}
+.res{
+    color:rgb(36, 209, 36);
+    font-size: 25px;
+}
+.wrong{
+    color:rgb(227, 45, 8);
+    font-size: 25px;
+}

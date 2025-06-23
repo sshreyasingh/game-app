@@ -1,0 +1,87 @@
+.game-container {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 2rem;
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  width: 550px;
+  /* margin: 5rem auto; */
+  background-color:rgba(0, 0, 0, 0.5);
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+body{
+    /* background-image: url(https://www.pixelstalk.net/wp-content/uploads/images6/Cool-Marvel-Wallpaper-Free-Download.jpg); */
+    background-size: cover;
+}
+.game-input {
+  padding: 10px;
+  font-size: 1rem;
+  width: 80%;
+  margin-top: 1rem;
+  color: black;
+  font-size: larger;
+  border:5px solid rgb(121, 17, 17);
+  border-radius: 1rem;
+  font-weight: 500;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.game-input:hover{
+  border:5px solid rgb(191, 40, 40);
+}
+
+.check-button {
+  margin-top: 1rem;
+  padding: 10px 20px;
+  font-size: 1rem;
+  background-color: rgb(147, 32, 32);
+  color: white;
+  border: none;
+  border-radius: 16px;
+  cursor: pointer;
+  height: 60px;
+  width: 130px;
+  border: 5px solid white;
+}
+
+.check-button:hover {
+  background-color: red;
+  border: 5px solid rgb(124, 18, 18);
+}
+
+.play {
+  margin-top: 1rem;
+  padding: 6px 16px;
+  background-color:rgb(30, 30, 116);
+  color: white;
+  border: none;
+  border-radius: 16px;
+  cursor: pointer;
+  height: 66px;
+  width: 130px;
+  border: 5px solid white;
+}
+
+.play:hover {
+  background-color: rgb(30, 30, 151);
+  border: 5px solid rgb(33, 33, 115);
+}
+.head{
+    font-size: 65px;
+    color: beige;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.scr-word{
+    font-size: 40px;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.scr-head{
+    font-size: 45px;
+    color: antiquewhite;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.little{
+    font-size: 20px;
+    font-weight: 800;
+    color: rgb(60, 210, 60);
+}
